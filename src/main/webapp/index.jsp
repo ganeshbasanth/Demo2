@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>I have changed data in the file and deploying the application using jenkins by using CICD method!</h2>
+<h2>Hello this is my sample site!</h2>
 </body>
 </html>
